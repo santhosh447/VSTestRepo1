@@ -14,8 +14,7 @@ namespace GitExample
             //Code added in Hub
             //Code Update Git Hub
             //new code added in Branch1VS
-            //new code added in Branch2VS
-            //set modify branch
+
 
         }
     }
