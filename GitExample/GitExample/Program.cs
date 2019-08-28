@@ -10,12 +10,7 @@ namespace GitExample
     {
         static void Main(string[] args)
         {
-            //code added in visual studio in program
-            //Code added in Hub
-            //Code Update Git Hub
-            //new code added in Branch1VS
-            //new code added in Branch2VS v 
-            //new branch add
+           //  branch2
 
         }
     }
